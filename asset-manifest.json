@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bonfire-club-project/static/css/main.ad18c4a7.css",
+    "main.js": "/bonfire-club-project/static/js/main.e66f2c44.js",
+    "index.html": "/bonfire-club-project/index.html",
+    "static/media/decor.svg": "/bonfire-club-project/static/media/decor.9c038dbb9f989839892d.svg",
+    "static/media/heart.svg": "/bonfire-club-project/static/media/heart.34c66fdbb1d1059c3f52.svg",
+    "main.ad18c4a7.css.map": "/bonfire-club-project/static/css/main.ad18c4a7.css.map",
+    "main.e66f2c44.js.map": "/bonfire-club-project/static/js/main.e66f2c44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad18c4a7.css",
+    "static/js/main.e66f2c44.js"
+  ]
+}
